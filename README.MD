@@ -1,4 +1,4 @@
-AI-powered CLI Tool
+AI-powered CLI Tool {Created by Shane O'Neal [thesilence616@gmail.com] [https://hackkali313.substack.com] 
 
 This is an AI-powered Command-Line Interface (CLI) tool that uses OpenAI's GPT models to provide intelligent responses to user queries.
 
